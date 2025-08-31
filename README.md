@@ -1,4 +1,4 @@
-# Source Code for the Scientific Article
+# Source Code for:
 
 This repository contains the **R source code** used to perform the analyses and generate the results presented in the article:
 
